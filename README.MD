@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src=".ChatGPT Image 22 de set. de 2025, 12_00_00.png">
+    <img width="100" src="./assets/ChatGPT Image 22 de set. de 2025, 12_00_00.png">
 </p>
 
 
@@ -48,7 +48,6 @@ Crie um e-book com os seguintes elementos:
 - Pense o design como algo moderno, futurista e com toques de cultura geek (ex.: capas em pixel art, galáxias, ícones retro).  
 - Finalize com uma seção de referências para estudo contínuo.  
 
-                                                        |
 
 ## ✨ Features
 
