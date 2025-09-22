@@ -37,10 +37,17 @@ seguem abaixo.
 
 ChatGPT：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Quero que você atue como um especialista em criação de e-books.  
-Crie um e-book com os seguintes elementos: Título épico e curto inspirado em referências nerds (como Star Wars), mas conectado ao nicho de Data Science. Um subtítulo explicativo e motivacional que traga clareza ao tema central. Estruture o e-book em capítulos organizados, começando com uma introdução acessível, depois passando por fundamentos teóricos, exemplos práticos, técnicas avançadas e finalizando com aplicações de mercado e conclusão inspiradora. Use uma linguagem clara, acessível e didática, evitando jargões excessivos. Inclua metáforas nerds para tornar a leitura divertida (ex.: lado sombrio = overfitting, Jedi = cientistas de dados, etc). Adicione exemplos práticos simples em Python, mas com explicações passo a passo. Pense o design como algo moderno, futurista e com toques de cultura geek (ex.: capas em pixel art, galáxias, ícones retro). Finalize com uma seção de referências para estudo contínuo.  
+Quero que você atue como um especialista em criação de e-books.  
+Crie um e-book com os seguintes elementos:  
+- Título épico e curto inspirado em referências nerds (como Star Wars), mas conectado ao nicho de Data Science.  
+- Um subtítulo explicativo e motivacional que traga clareza ao tema central.  
+- Estruture o e-book em capítulos organizados, começando com uma introdução acessível, depois passando por fundamentos teóricos, exemplos práticos, técnicas avançadas e finalizando com aplicações de mercado e conclusão inspiradora.  
+- Use uma linguagem clara, acessível e didática, evitando jargões excessivos.  
+- Inclua metáforas nerds para tornar a leitura divertida (ex.: lado sombrio = overfitting, Jedi = cientistas de dados, etc).  
+- Adicione exemplos práticos simples em Python, mas com explicações passo a passo.  
+- Pense o design como algo moderno, futurista e com toques de cultura geek (ex.: capas em pixel art, galáxias, ícones retro).  
+- Finalize com uma seção de referências para estudo contínuo.  
+
                                                         |
 
 ## ✨ Features
