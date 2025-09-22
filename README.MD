@@ -40,15 +40,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Quero que você atue como um especialista em criação de e-books.  
-Crie um e-book com os seguintes elementos:  
- Título épico e curto inspirado em referências nerds (como Star Wars), mas conectado ao nicho de Data Science.  
- Um subtítulo explicativo e motivacional que traga clareza ao tema central.  
- Estruture o e-book em capítulos organizados, começando com uma introdução acessível, depois passando por fundamentos teóricos, exemplos práticos, técnicas avançadas e finalizando com aplicações de mercado e conclusão inspiradora.  
- Use uma linguagem clara, acessível e didática, evitando jargões excessivos.  
- Inclua metáforas nerds para tornar a leitura divertida (ex.: lado sombrio = overfitting, Jedi = cientistas de dados, etc).  
- Adicione exemplos práticos simples em Python, mas com explicações passo a passo.  
- Pense o design como algo moderno, futurista e com toques de cultura geek (ex.: capas em pixel art, galáxias, ícones retro).  
- Finalize com uma seção de referências para estudo contínuo.  
+Crie um e-book com os seguintes elementos: Título épico e curto inspirado em referências nerds (como Star Wars), mas conectado ao nicho de Data Science. Um subtítulo explicativo e motivacional que traga clareza ao tema central. Estruture o e-book em capítulos organizados, começando com uma introdução acessível, depois passando por fundamentos teóricos, exemplos práticos, técnicas avançadas e finalizando com aplicações de mercado e conclusão inspiradora. Use uma linguagem clara, acessível e didática, evitando jargões excessivos. Inclua metáforas nerds para tornar a leitura divertida (ex.: lado sombrio = overfitting, Jedi = cientistas de dados, etc). Adicione exemplos práticos simples em Python, mas com explicações passo a passo. Pense o design como algo moderno, futurista e com toques de cultura geek (ex.: capas em pixel art, galáxias, ícones retro). Finalize com uma seção de referências para estudo contínuo.  
                                                         |
 
 ## ✨ Features
@@ -64,30 +56,3 @@ Crie um e-book com os seguintes elementos:
 ## 🛠️ Instruções de execução
 
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
-
-## 👨‍💻 Expert
-
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
